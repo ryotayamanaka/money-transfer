@@ -93,7 +93,7 @@ Then start a client shell instance that connects to the server
 
 Set the create property graph statement.
 
-[`create-pg.pgql`](script/create-pg.pgql)
+[`create-pg.pgql`](../script/create-pg.pgql)
 
     >>> statement = open('/home/opc/moneyflows/script/create-pg.pgql', 'r').read()
 
