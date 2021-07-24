@@ -36,7 +36,7 @@ Sample dataset is under `/data/scale-100/` directory.
 
 Copy the 3 CSV files under `/data/` for loading.
 
-    $ cp /data/scale-100/*.csv /data/
+    $ cp ./data/scale-100/*.csv ./data/
 
 ### Larger dataset (optional)
 
